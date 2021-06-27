@@ -1,0 +1,86 @@
+@media screen and (min-width: 320px){
+    
+
+iframe{
+    height: 450px;
+}
+
+
+
+
+
+article{
+    border: solid;
+    margin: 2%;
+}
+.début{
+    border:none;
+    margin:0%
+}
+.finance{
+    margin-bottom: 1%;
+    margin-right: 0.5%;
+}
+.lemetier img{
+    margin-top: 2%;
+}
+.début button{
+    background-color: #0781F2;
+    color: white;
+    border-color:#0781F2 ;
+    padding: 2%;
+}
+.aprés{
+    margin-top: 0%;
+    background-color: #07F290;
+}
+.savoirplus{
+    background-color: #07F290;
+    border-color: black;
+}
+.savoirplus button{
+    background-color:#0781F2 ;
+    color:white;
+    border-color:#0781F2;
+
+}
+.lemetier{
+    background-color:#07F290;
+}
+.descriptionformation{
+    background-color:#07F290;
+}
+.descriptionformation2{
+    background-color:#07F290;
+}
+.carouselExampleCaptions .carousel-item{
+    background-color:#0781F2;
+}
+.compte{
+    background-color:#0781F2;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    color: white;
+    border-color: #0781F2;
+    margin-left: 58%;
+}
+.formulaire{
+    background-color:#07F290 ;
+}
+footer .d-flex{
+    justify-content: center;
+ 
+}
+footer img{
+    margin: 3%;
+}
+}
+@media screen and (min-width: 768px){
+    iframe{
+        height: 450px;
+        width: 200px;
+    }
+    body h1{
+        text-align: center;
+    }
+}
